@@ -41,11 +41,7 @@
 
 I'm **Abdul Basir Dev** — a MERN Stack Developer who designs and builds **full-stack web applications** — from clean, responsive UIs to robust backend APIs and database architecture.
 
-- 🔭 Currently working on **CompleteMernAuthApp** — a full-featured auth system
-- 🌱 Learning **TypeScript & Next.js** to level up my stack
-- 🏥 Building **MedLink1** — a doctor appointment booking platform
 - ⚡ I love turning real-world problems into clean, scalable solutions
-
 ---
 
 ## 🛠️ Tech Stack
