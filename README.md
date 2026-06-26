@@ -29,11 +29,6 @@
 
 I'm **Abdul Basir Dev** — a MERN Stack Developer who designs and builds **full-stack web applications** — from clean, responsive UIs to robust backend APIs and database architecture.
 
-> 🌐 Portfolio: **[Abdul Basir Dev](https://abdulbasirdev.com)** — Search me on Google: *"Abdul Basir Dev"*
-
-- 🔭 Currently working on **CompleteMernAuthApp** — a full-featured auth system
-- 🌱 Learning **TypeScript & Next.js** to level up my stack
-- 🏥 Building **MedLink1** — a doctor appointment booking platform
 - ⚡ I love turning real-world problems into clean, scalable solutions
 
 ---
@@ -94,16 +89,6 @@ I'm **Abdul Basir Dev** — a MERN Stack Developer who designs and builds **full
 
 ---
 
-## 🤝 Connect with Abdul Basir Dev
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Abdul_Basir_Dev-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulbasirdev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasir21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulbasir21)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulbasir21@gmail.com)
-
-</div>
 
 ---
 
