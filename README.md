@@ -14,12 +14,24 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
+<br/>
+
+<!-- Clickable Links Section -->
 <p align="center">
-  <a href="https://github.com/abdulbasir21">
-    <img src="https://img.shields.io/github/followers/abdulbasir21?label=Follow&style=social" />
+  <a href="https://abdulbasir-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-%E2%86%92 Click to Visit-00BFFF?style=for-the-badge&labelColor=0d1117"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abdulbasir21&label=Profile+Views&color=0e75b6&style=flat" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdulbasir1/" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-%E2%86%92 Let's Connect-0077B5?style=for-the-badge&labelColor=0d1117"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdulbasir4211@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧 Gmail-%E2%86%92 Send Email-D14836?style=for-the-badge&labelColor=0d1117"/>
+  </a>
 </p>
+
+<p align="center"><i>👆 Click any button above to visit!</i></p>
 
 </div>
 
@@ -29,6 +41,9 @@
 
 I'm **Abdul Basir Dev** — a MERN Stack Developer who designs and builds **full-stack web applications** — from clean, responsive UIs to robust backend APIs and database architecture.
 
+- 🔭 Currently working on **CompleteMernAuthApp** — a full-featured auth system
+- 🌱 Learning **TypeScript & Next.js** to level up my stack
+- 🏥 Building **MedLink1** — a doctor appointment booking platform
 - ⚡ I love turning real-world problems into clean, scalable solutions
 
 ---
@@ -86,9 +101,6 @@ I'm **Abdul Basir Dev** — a MERN Stack Developer who designs and builds **full
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdulbasir21&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
-
----
-
 
 ---
 
